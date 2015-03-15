@@ -1,4 +1,4 @@
-# inifile
+# IniFile
 IniFile is a Java class that can read and write a Windows-style INI file. INI files are plain text files that usually look similar to this:
 
 ```
